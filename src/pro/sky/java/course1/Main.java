@@ -26,7 +26,6 @@ public class Main {
         System.out.println("Books equal by hashCode: " + (theStand.hashCode() == warAndPeace.hashCode()));
         System.out.println(theStand);
         System.out.println(warAndPeace);
-
         System.out.println("==============================");
 
     }
